@@ -3,8 +3,6 @@
 
   <img src="https://img.shields.io/badge/SSAFY-1428A0?style=flat-square&logo=samsung&logoColor=white"/>
 
-<hr style="border-top: 1px dashed #444;"/>
-
 ## <img src="https://img.icons8.com/?size=100&id=rE8wArX2YzrK&format=png&color=000000" width="20"/> TECH
 
 <p>
