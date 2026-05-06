@@ -14,12 +14,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-
-## <img src="https://img.icons8.com/?size=100&id=8eio9KgDotj6&format=png&color=000000" width="20"/> HOBBIES
-
-<p>
-  <img src="https://img.shields.io/badge/Playstation-0070D1?style=flat-square&logo=playstation&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FallGuys-C209C1?style=flat-square&logo=epicgames&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HearthStone-F68F1E?style=flat-square&logo=battledotnet&logoColor=white"/>
-</p>
-
