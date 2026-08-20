@@ -239,7 +239,7 @@
     <td><b>코드 품질 개선 및 마이그레이션</b></td>
     <td>
       AI Agent를 활용한
-      JSP + Spring Boot 2 → React + Spring Boot 3 마이그레이션,
+      JSP + Spring Boot 2 → React + Spring Boot 3 마이그레이션,<br>
       <code>개발 기간 3개월 단축</code>
     </td>
   </tr>
